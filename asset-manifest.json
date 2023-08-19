@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rahmat-portfolio/static/css/main.10e0126e.css",
-    "main.js": "/rahmat-portfolio/static/js/main.832e9bb3.js",
+    "main.js": "/rahmat-portfolio/static/js/main.d52f484f.js",
     "static/media/peduli.png": "/rahmat-portfolio/static/media/peduli.d90a6e2215f3abe604b7.png",
     "static/media/fa-solid-900.ttf": "/rahmat-portfolio/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/nutri.png": "/rahmat-portfolio/static/media/nutri.0fd2ac3bb58f2ee9c5d8.png",
@@ -32,10 +32,10 @@
     "static/media/css3.svg": "/rahmat-portfolio/static/media/css3.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html5.svg": "/rahmat-portfolio/static/media/html5.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "main.10e0126e.css.map": "/rahmat-portfolio/static/css/main.10e0126e.css.map",
-    "main.832e9bb3.js.map": "/rahmat-portfolio/static/js/main.832e9bb3.js.map"
+    "main.d52f484f.js.map": "/rahmat-portfolio/static/js/main.d52f484f.js.map"
   },
   "entrypoints": [
     "static/css/main.10e0126e.css",
-    "static/js/main.832e9bb3.js"
+    "static/js/main.d52f484f.js"
   ]
 }
