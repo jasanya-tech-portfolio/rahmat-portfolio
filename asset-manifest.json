@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/rahmat-portfolio/static/css/main.10e0126e.css",
+    "main.js": "/rahmat-portfolio/static/js/main.832e9bb3.js",
+    "static/media/peduli.png": "/rahmat-portfolio/static/media/peduli.d90a6e2215f3abe604b7.png",
+    "static/media/fa-solid-900.ttf": "/rahmat-portfolio/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/nutri.png": "/rahmat-portfolio/static/media/nutri.0fd2ac3bb58f2ee9c5d8.png",
+    "static/media/fa-brands-400.ttf": "/rahmat-portfolio/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/rahmat-portfolio/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/fa-brands-400.woff2": "/rahmat-portfolio/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/rahmat.png": "/rahmat-portfolio/static/media/rahmat.7373e339a4687d5a9d8d.png",
+    "static/media/fa-regular-400.ttf": "/rahmat-portfolio/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/fa-regular-400.woff2": "/rahmat-portfolio/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/fa-v4compatibility.ttf": "/rahmat-portfolio/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/postgresql.svg": "/rahmat-portfolio/static/media/postgresql.ae92b576b8ea41666538c0756df27969.svg",
+    "static/media/express.svg": "/rahmat-portfolio/static/media/express.75fff9be2f3b289ba7be1f43a08f7a4c.svg",
+    "static/media/codeigniter.svg": "/rahmat-portfolio/static/media/codeigniter.edfac06b62f4cc16e377d6a501b8c5d5.svg",
+    "static/media/fa-v4compatibility.woff2": "/rahmat-portfolio/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "static/media/redis.svg": "/rahmat-portfolio/static/media/redis.ec8971a991f77974bf2f0dceb7359ac7.svg",
+    "static/media/xampp.svg": "/rahmat-portfolio/static/media/xampp.ed27b4877fcfd2fd74dc95e8dc2152ed.svg",
+    "static/media/react.svg": "/rahmat-portfolio/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/laravel.svg": "/rahmat-portfolio/static/media/laravel.ba995bd47e3a7cc141cc1c9aaa1ac583.svg",
+    "static/media/c.svg": "/rahmat-portfolio/static/media/c.a776a608546a79750b150829bc9b099e.svg",
+    "static/media/kafka.svg": "/rahmat-portfolio/static/media/kafka.31b4a8cc6be07b6c2a85a57f036d0434.svg",
+    "static/media/python.svg": "/rahmat-portfolio/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/mongodb.svg": "/rahmat-portfolio/static/media/mongodb.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/golang.svg": "/rahmat-portfolio/static/media/golang.bdb19ee86fae51fd099ec6ad73f1c26a.svg",
+    "static/media/bootstrap.svg": "/rahmat-portfolio/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/javascript.svg": "/rahmat-portfolio/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/php.svg": "/rahmat-portfolio/static/media/php.7c41b19923da57634a76372016ed129e.svg",
+    "index.html": "/rahmat-portfolio/index.html",
+    "static/media/css3.svg": "/rahmat-portfolio/static/media/css3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html5.svg": "/rahmat-portfolio/static/media/html5.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "main.10e0126e.css.map": "/rahmat-portfolio/static/css/main.10e0126e.css.map",
+    "main.832e9bb3.js.map": "/rahmat-portfolio/static/js/main.832e9bb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e0126e.css",
+    "static/js/main.832e9bb3.js"
+  ]
+}
